@@ -1,0 +1,86 @@
+[19-Jul-2024 16:26:30 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 149
+[24-Jul-2024 18:26:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ath_since' in 'field list' in /home/corrgltt/public_html/new/ath_count1.php:77
+Stack trace:
+#0 /home/corrgltt/public_html/new/ath_count1.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/ath_count1.php on line 77
+[24-Jul-2024 18:26:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ath_since' in 'field list' in /home/corrgltt/public_html/new/ath_count1.php:77
+Stack trace:
+#0 /home/corrgltt/public_html/new/ath_count1.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/ath_count1.php on line 77
+[29-Jul-2024 13:30:33 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 149
+[31-Jul-2024 13:24:46 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/aggs/ticker/ABNB/range/1/day/2010-01-01/2024-12-31?adjusted=true&amp;apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! in /home/corrgltt/public_html/new/insert_companies.php on line 120
+[31-Jul-2024 13:29:34 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 149
+[01-Aug-2024 04:41:05 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 149
+[01-Aug-2024 04:41:24 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 149
+[02-Aug-2024 13:57:01 America/New_York] PHP Warning:  Undefined array key "results" in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[02-Aug-2024 13:57:01 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_eft.php:53
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_eft.php(53): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:31 America/New_York] PHP Warning:  Undefined array key "results" in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:31 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_eft.php:53
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_eft.php(53): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:34 America/New_York] PHP Warning:  Undefined array key "results" in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:34 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_eft.php:53
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_eft.php(53): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:37 America/New_York] PHP Warning:  Undefined array key "results" in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:38:37 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_eft.php:53
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_eft.php(53): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:39:33 America/New_York] PHP Warning:  Undefined array key "results" in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[03-Aug-2024 13:39:33 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_eft.php:53
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_eft.php(53): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_eft.php on line 53
+[09-Jan-2025 08:34:23 America/New_York] PHP Warning:  Undefined variable $responseAllTimeHighs in /home/corrgltt/public_html/new/insert_companies.php on line 141
+[09-Jan-2025 08:34:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/corrgltt/public_html/new/insert_companies.php on line 142
+[09-Jan-2025 08:34:23 America/New_York] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in /home/corrgltt/public_html/new/insert_companies.php:142
+Stack trace:
+#0 /home/corrgltt/public_html/new/insert_companies.php(142): array_column()
+#1 {main}
+  thrown in /home/corrgltt/public_html/new/insert_companies.php on line 142
+[09-Jan-2025 08:40:29 America/New_York] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #2 cannot be passed by reference in /home/corrgltt/public_html/new/insert_companies.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/corrgltt/public_html/new/insert_companies.php on line 192
+[09-Jan-2025 08:45:50 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/snapshot/locale/us/markets/stocks/tickers/CTLT?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies2.php on line 166
+[09-Jan-2025 08:46:26 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/MRO?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies4.php on line 148
+[09-Jan-2025 08:49:38 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 166
+[16-Jan-2025 12:19:21 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/aggs/ticker/BEN/range/1/day/2025-01-16/2025-01-16?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/corrgltt/public_html/new/insert_companies.php on line 113
+[16-Jan-2025 12:22:14 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/aggs/ticker/CHTR/range/1/day/2025-01-16/2025-01-16?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/corrgltt/public_html/new/insert_companies.php on line 113
+[16-Jan-2025 12:22:54 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/aggs/ticker/ALL/range/1/day/2024-05-01/2024-05-31?adjusted=true&amp;apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/corrgltt/public_html/new/insert_companies.php on line 159
+[16-Jan-2025 12:30:56 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/CTLT?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies2.php on line 147
+[16-Jan-2025 12:37:11 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/CTLT?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies2.php on line 147
+[16-Jan-2025 12:40:50 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v2/aggs/ticker/FICO/range/1/day/2010-01-01/2024-12-31?adjusted=true&amp;apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/corrgltt/public_html/new/insert_companies3.php on line 145
+[16-Jan-2025 12:56:17 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/MRO?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies4.php on line 148
+[16-Jan-2025 13:05:48 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 166
+[16-Jan-2025 13:11:46 America/New_York] PHP Warning:  file_get_contents(https://api.polygon.io/v3/reference/tickers/WRK?apiKey=zq_ujf8gikb5aQgmyimpTQ7CIIpN5x2x): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/corrgltt/public_html/new/insert_companies5.php on line 166
