@@ -35,7 +35,7 @@ if(isset($_POST['setnotification'])){
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Correction Territory</title>
+    <title>Correction Territory 1</title>
 
     <link rel="icon" href="images/icon.png" type="image/x-icon">
     
